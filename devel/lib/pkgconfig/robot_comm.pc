@@ -1,0 +1,8 @@
+prefix=/home/rosuser/rosdev/nla-tarea-01/devel
+
+Name: robot_comm
+Description: Description of robot_comm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

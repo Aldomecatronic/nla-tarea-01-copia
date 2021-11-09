@@ -1,0 +1,2 @@
+robot_comm
+-DCATKIN_DEVEL_PREFIX=/home/rosuser/rosdev/nla-tarea-01/devel -DCMAKE_INSTALL_PREFIX=/home/rosuser/rosdev/nla-tarea-01/install -G Unix Makefiles
